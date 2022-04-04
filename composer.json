@@ -1,0 +1,10 @@
+{
+    "name": "bouchertheo/autoloadtest",
+    "description": "composer quest",
+    "authors": [
+        {
+            "name": "théo boucher"
+        }
+    ],
+    "require": {}
+}
