@@ -1,10 +1,10 @@
 {
-    "name": "bouchertheo/autoloadtest",
-    "description": "composer quest",
-    "authors": [
-        {
-            "name": "théo boucher"
+    "name": "theobouche/autoloaddtest",
+    "description": "yy",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/wcs"
         }
-    ],
+    },
     "require": {}
 }
